@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268555960847",
+    "firebase_url": "https://mitenotify-f627b.firebaseio.com",
+    "project_id": "mitenotify-f627b",
+    "storage_bucket": "mitenotify-f627b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268555960847:android:20e1739f92708f3b8d997a",
+        "android_client_info": {
+          "package_name": "com.example.mitenotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268555960847-1adqfnb45jlse0e6v7ti7nhc1a8qlm9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mitenotify",
+            "certificate_hash": "03fbba4e6c411417d73aa69cec13e95a3d70978b"
+          }
+        },
+        {
+          "client_id": "268555960847-3vr0qprohmb6a1n93nd8057v3bksrset.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVuADaRbIFwGtMTmNleb5cbQMXLzE9jAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268555960847-3vr0qprohmb6a1n93nd8057v3bksrset.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
